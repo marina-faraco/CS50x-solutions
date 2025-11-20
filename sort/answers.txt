@@ -1,0 +1,15 @@
+sort1 uses: bubble sort
+
+How do you know?: Considering that Bubble Sort tends to be faster on already sorted lists (compared to
+the other algorithms), and based on the real-time execution of sort1, it is more likely that sort1 uses Bubble Sort.
+
+sort2 uses: merge sort
+
+How do you know?: Merge Sort is expected to be more efficient when dealing with unsorted lists; therefore,
+based on the real-time execution of sort2, it can be assumed that sort2 uses Merge Sort.
+
+sort3 uses: selection sort
+
+How do you know?: Given that sort1 and sort2 have already been identified, and analyzing the real-time execution
+of sort3 in all scenarios, it can be concluded that sort3 uses Selection Sort.
+
